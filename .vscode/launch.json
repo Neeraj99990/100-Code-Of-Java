@@ -1,0 +1,308 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Code1",
+            "request": "launch",
+            "mainClass": "Code1",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code10",
+            "request": "launch",
+            "mainClass": "Code10",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code11",
+            "request": "launch",
+            "mainClass": "Code11",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code12",
+            "request": "launch",
+            "mainClass": "Code12",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code13",
+            "request": "launch",
+            "mainClass": "Code13",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code14",
+            "request": "launch",
+            "mainClass": "Code14",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code15",
+            "request": "launch",
+            "mainClass": "Code15",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code16",
+            "request": "launch",
+            "mainClass": "Code16",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code17",
+            "request": "launch",
+            "mainClass": "Code17",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code18",
+            "request": "launch",
+            "mainClass": "Code18",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code19",
+            "request": "launch",
+            "mainClass": "Code19",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code2",
+            "request": "launch",
+            "mainClass": "Code2",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code20",
+            "request": "launch",
+            "mainClass": "Code20",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code21",
+            "request": "launch",
+            "mainClass": "Code21",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code22",
+            "request": "launch",
+            "mainClass": "Code22",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code23",
+            "request": "launch",
+            "mainClass": "Code23",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code24",
+            "request": "launch",
+            "mainClass": "Code24",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code25",
+            "request": "launch",
+            "mainClass": "Code25",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code26",
+            "request": "launch",
+            "mainClass": "Code26",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code27",
+            "request": "launch",
+            "mainClass": "Code27",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code28",
+            "request": "launch",
+            "mainClass": "Code28",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code29",
+            "request": "launch",
+            "mainClass": "Code29",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code3",
+            "request": "launch",
+            "mainClass": "Code3",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code30",
+            "request": "launch",
+            "mainClass": "Code30",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code31",
+            "request": "launch",
+            "mainClass": "Code31",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code32",
+            "request": "launch",
+            "mainClass": "Code32",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code33",
+            "request": "launch",
+            "mainClass": "Code33",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code34",
+            "request": "launch",
+            "mainClass": "Code34",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code35",
+            "request": "launch",
+            "mainClass": "Code35",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code36",
+            "request": "launch",
+            "mainClass": "Code36",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code37",
+            "request": "launch",
+            "mainClass": "Code37",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code38",
+            "request": "launch",
+            "mainClass": "Code38",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code39",
+            "request": "launch",
+            "mainClass": "Code39",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code4",
+            "request": "launch",
+            "mainClass": "Code4",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code40",
+            "request": "launch",
+            "mainClass": "Code40",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code41",
+            "request": "launch",
+            "mainClass": "Code41",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code5",
+            "request": "launch",
+            "mainClass": "Code5",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code6",
+            "request": "launch",
+            "mainClass": "Code6",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code7",
+            "request": "launch",
+            "mainClass": "Code7",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code8",
+            "request": "launch",
+            "mainClass": "Code8",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Code9",
+            "request": "launch",
+            "mainClass": "Code9",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Code100_28b5b42b"
+        }
+    ]
+}
