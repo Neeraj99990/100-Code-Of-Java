@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Code75",
+            "request": "launch",
+            "mainClass": "Code75",
+            "projectName": "Code100_28b5b42b"
+        },
+        {
+            "type": "java",
             "name": "Code74",
             "request": "launch",
             "mainClass": "Code74",
