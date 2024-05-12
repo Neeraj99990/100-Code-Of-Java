@@ -57,7 +57,7 @@ public class Code91 {
 
                    case 10 :
                    System.out.println("Oct");
-                   System.out.println("31 days");7
+                   System.out.println("31 days");
                    break;
 
                    case 11 :
