@@ -1,12 +1,23 @@
-// Chek the NUmber is Even Or Odd
+import java.util.Scanner;
 
+/**
+ * Code2
+ */
 public class Code2 {
-    public static void main(String[] args) {
-              int number= 29;
 
-              if ( number % 2 == 0)
-                  System.out.println( number + "  Number is Even" );
-              else
-                  System.out.println( number + "  Number is Odd ");
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("Enter a number : ");
+
+        int number = sc.nextInt();
+
+        if (number % 2 == 0) {
+            System.out.println(number + " is even ");
+        } else {
+            System.out.println(number + " is odd ");
+        }
+
+        sc.close();
     }
 }
